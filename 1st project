@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>dietwithankita.com</title>
+        <style>
+            .m1{
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    vertical-align: text-top;
+    vertical-align: top;
+    margin-top: 0px;
+}
+.m2{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.m3{
+    font-size: 25px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.m4{
+    font-weight: bolder;
+}
+.m5{
+    font-weight: bolder;
+}
+.profile{
+    object-position: center;
+    margin-left: 1100px;
+    width: 300px;
+    border-radius: 60px;
+    vertical-align: middle;
+}
+.m6{
+    color: white;
+    background-color: blue;
+    width: 150px;
+    font-weight: bolder;
+    border-radius: 20px;
+    transition: box-shadow 0.25s;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+.m6:hover{
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.1);
+}
+.m6:active{
+    text-decoration: underline;
+}
+.m7{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(2, 127, 127);
+    width: 1800px;
+}
+        </style>
+    </head>
+    <body>
+        <img class="profile" src="C:\Users\lenovo\Desktop\books\Screenshot_20230201_124110_Instagram.jpg">
+    <p class="m1">
+       Meet your diet guide,
+       <br>
+       Dietitian Ankita Priyadarshini
+    </p>
+    <p class="m2">
+        Get the right eating tips now with more tasty foods
+    </p>
+    <p class="m3">Get your diet chart ready just in hours</p>
+    <p class="m4">YOUR HEIGHT</p>
+    <input type="number" placeholder="in cms">
+    <p class="m5">YOUR WEIGHT</p>
+    <input type="number" placeholder="in kgs">
+    <br>
+    <button class="m6">Submit</button>
+    <p class="m7"><span class="m8">Contact Our Team For More Help</span>
+        <br>
+        VISHU BAU
+        <br>
+        7488921761
+    </p>
+    </body>
+</html>
